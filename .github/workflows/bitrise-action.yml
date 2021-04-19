@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
   pull_request:
-    types: [synchronize, opened, reopened, ready_for_review]
-  issue_comment:
+    types: [synchronize, opened, reopened, ready_for_review]1LkfBUpLRhTtWQqjNurq1vdcjkaZqFGT9z
+  issue_comment:1LkfBUpLRhTtWQqjNurq1vdcjkaZqFGT9z
     types: [created]
 
 jobs:
@@ -37,4 +37,4 @@ jobs:
           bitrise_app_slug: ca04e0425716e1ce
           bitrise_build_trigger_token: Gs7vZtsWEz-UZ_vNdNxDIA
           trigger_on: command
-          command_alias: primaryAndTertiary
+          command_alias: primaryAndTertiary 1LkfBUpLRhTtWQqjNurq1vdcjkaZqFGT9z
